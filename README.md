@@ -1,2 +1,1 @@
-# infra-mcdo
-infra-mcdo
+# test-uai-lab01-mlops
